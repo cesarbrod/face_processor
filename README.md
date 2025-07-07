@@ -23,7 +23,7 @@ Esse programa foi testado no Ubuntu 24.04 com python3, usando venv. Em resumo, a
 
 # Como esse programa foi criado
 
-Com vibe coding no claude.ai, usando três prompts:
+Com [vibe coding no claude.ai](https://claude.ai/public/artifacts/1e2dd765-111c-45e6-8146-763d4ea5ad5c "vibe coding no claude.ai"), usando três prompts:
 
 **Prompt 1:**
 
